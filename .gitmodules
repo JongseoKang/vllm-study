@@ -1,0 +1,9 @@
+[submodule "vllm"]
+	path = vllm
+	url = https://github.com/JongseoKang/vllm.git
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/JongseoKang/pytorch.git
+[submodule "triton"]
+	path = triton
+	url = https://github.com/JongseoKang/triton.git
